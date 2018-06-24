@@ -8,8 +8,8 @@ body {
 /*
 Default layout (portrait)
 */
-#controls {
-    position: absolute;
+.controls {
+    position: fixed;
     bottom: 0;
 /*
     absolute position centering
@@ -19,13 +19,12 @@ Default layout (portrait)
     margin-left:auto;
     margin-right:auto;
     max-width: 400px;
+    margin-bottom: 0;
 }
 #geoalert {
-    margin-bottom: 0;
     text-align: center;
 }
 #time-control {
-    margin-bottom: 0;
     padding-bottom: 0;
 }
 #fullclock {
@@ -36,18 +35,12 @@ Default layout (portrait)
 
 /* Landscape layout (with min-width) TODO*/
 @media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
-    #controls {
+    .controls {
         max-width: 45%;
         margin-right: 0;
         height: 100%;
         padding-top: 10%;
         padding-bottom: 10%;
-    }
-    #time-control {
-        height: 100%;
-    }
-    #geoalert {
-        height: 100%;
     }
     #fullclock {
         margin-left: 0;

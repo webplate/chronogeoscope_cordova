@@ -338,6 +338,6 @@ html10n.bind('localized', function() {
   document.documentElement.dir = html10n.getDirection()
 });
 
-//
+// Ending launch
 
 console.log("JS app initialized");

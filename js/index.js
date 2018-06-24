@@ -39,6 +39,7 @@ var app = {
             geolocate();
             hide_geoalert();
             animate();
+            applaunchCount += 1;
         }else{
             //Local storage is not set, hence first time launch. set the local storage item
             window.localStorage.setItem('launchCount',1);

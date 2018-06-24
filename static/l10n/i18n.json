@@ -1,0 +1,26 @@
+{
+"en": {
+  "solar-time": "Solar time at your position",
+  "greenwich-time": "Greenwich mean time",
+  "local-time": "Local time",
+  "website": "See official website for more information",
+  "geoalert": "Please provide your position. It's not sent to any server. You can check the source code:",
+  "geoactivation": "Use my position"
+},
+"fr": {
+  "solar-time": "Heure solaire à votre position",
+  "greenwich-time": "Heure moyenne Greenwich",
+  "local-time": "Heure locale",
+  "website": "Visitez le site web pour plus d'informations",
+  "geoalert": "Veuillez fournir votre position. Elle n'est envoyée vers aucun serveur externe comme vous pouvez le vérifier dans le code source :",
+  "geoactivation": "Fournir ma position"
+},
+"it": {
+  "solar-time": "L'ora solare nella tua posizione",
+  "greenwich-time": "Ora di Greenwich",
+  "local-time": "Ora locale",
+  "website": "Ritrovaci sul sito per tutte le informazioni",
+  "geoalert": "Utilizza la tua posizione. Non verrà condivisa con alcun server esterno, come puoi verificare nel codice fonte :",
+  "geoactivation": "Voglio utilizzare la mia posizione"
+}
+}

@@ -6,7 +6,7 @@
   "website": "See official website for more information",
   "geoalert": "Please provide your position. It's not sent to any server. You can check the source code:",
   "geoactivation": "Use my position",
-  "credit.innerHTML": "A project by <strong>Roberto Casati and <strong>Glen Lomax</strong>"
+  "credit.innerHTML": "A project by <strong>Roberto Casati</strong> and <strong>Glen Lomax</strong>"
 },
 "fr": {
   "solar-time": "Heure solaire à votre position",
@@ -24,6 +24,6 @@
   "website": "Ritrovaci sul sito per tutte le informazioni",
   "geoalert": "Utilizza la tua posizione. Non verrà condivisa con alcun server esterno, come puoi verificare nel codice fonte :",
   "geoactivation": "Voglio utilizzare la mia posizione",
-  "credit.innerHTML": "Un projetto di <strong>Roberto Casati e <strong>Glen Lomax</strong>"
+  "credit.innerHTML": "Un projetto di <strong>Roberto Casati</strong> e <strong>Glen Lomax</strong>"
 }
 }

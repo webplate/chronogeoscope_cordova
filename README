@@ -1,0 +1,10 @@
+# The Chronogeoscope in a cordova wrapper
+
+This is a wrapped version of the chronogeoscope (see details at:
+https://lambda.casa/chronogeoscope ) thinked for smartphones and tablets using
+cordova (https://cordova.apache.org).
+
+This source code is a tweaked version of the web application
+(https://github.com/webplate/chronogeoscope). 
+
+

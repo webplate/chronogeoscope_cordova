@@ -1,11 +1,12 @@
 # The Chronogeoscope in a cordova wrapper
 
 This is a wrapped version of the chronogeoscope (see details at:
-https://lambda.casa/chronogeoscope ) thinked for smartphones and tablets using
+https://lambda.casa/chronogeoscope ) revamped for smartphones and tablets using
 cordova (https://cordova.apache.org).
 
 This source code is a tweaked version of the web application
-(https://github.com/webplate/chronogeoscope). 
+https://github.com/webplate/chronogeoscope. 
 
 Apart from cordova code which is under their licensing conditions, the source
-code is published here under GPLv3 (https://www.gnu.org/licenses/gpl-3.0.txt).
+code is published under the licence (CC-BY-NC-SA) 
+https://creativecommons.org/licenses/by-nc-sa/4.0/ 

@@ -5,7 +5,8 @@
   "local-time": "Local time",
   "website": "See official website for more information",
   "geoalert": "Please provide your position. It's not sent to any server. You can check the source code:",
-  "geoactivation": "Use my position"
+  "geoactivation": "Use my position",
+  "credit": "A project by Roberto Casati and Glen Lomax"
 },
 "fr": {
   "solar-time": "Heure solaire à votre position",
@@ -13,7 +14,8 @@
   "local-time": "Heure locale",
   "website": "Visitez le site web pour plus d'informations",
   "geoalert": "Veuillez fournir votre position. Elle n'est envoyée vers aucun serveur externe comme vous pouvez le vérifier dans le code source :",
-  "geoactivation": "Fournir ma position"
+  "geoactivation": "Fournir ma position",
+  "credit": "Un projet de Roberto Casati et Glen Lomax"
 },
 "it": {
   "solar-time": "L'ora solare nella tua posizione",
@@ -21,6 +23,7 @@
   "local-time": "Ora locale",
   "website": "Ritrovaci sul sito per tutte le informazioni",
   "geoalert": "Utilizza la tua posizione. Non verrà condivisa con alcun server esterno, come puoi verificare nel codice fonte :",
-  "geoactivation": "Voglio utilizzare la mia posizione"
+  "geoactivation": "Voglio utilizzare la mia posizione",
+  "credit": "Un projetto di Roberto Casati e Glen Lomax"
 }
 }
